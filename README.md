@@ -4,8 +4,8 @@
 
 ```bash
 # Clone the code to local machine
-git clone https://github.com/metadriverse/pvp
-cd pvp
+git clone https://github.com/BELIV-ASU/aPVP0.9.10.1.git
+cd aPVP0.9.10.1.git
 
 # Create Conda environment
 conda create -n pvp python=3.7
